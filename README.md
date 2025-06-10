@@ -1,10 +1,10 @@
 # Suriyakani Bhagavathy 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedinprofile)
-[![Email](https://img.shields.io/badge/Email-Contact-green)](mailto:suriyakani.b@capestart.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/bsuriyak/))
+[![Email](https://img.shields.io/badge/Email-Contact-green)](mailto:sunfruit83@gmail.com)
 
 Software Architect
 
-<suriyakani.b@capestart.com>
+<bsuriyak.uts@gmail.com>
 
 ## Summary 
 - :briefcase: Overall 15+ years of experience in designing and developing applications.
