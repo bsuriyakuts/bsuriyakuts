@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **bsuriyakuts/bsuriyakuts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,11 +14,11 @@ Here are some ideas to get you started:
 -->
 
 
-**Suriyakani Bhagavathy**
+## **Suriyakani Bhagavathy**
 
 Software Architect
 
-<suriyakani.b@capestart.com>
+<bsuriyak.uts@gmail.com>
 
 Summary
 
