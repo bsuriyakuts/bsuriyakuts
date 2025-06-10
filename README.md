@@ -9,20 +9,20 @@ Software Architect
 ## Summary 
 - :briefcase: Overall 15+ years of experience in designing and developing applications.
 - :computer: Proficient in .NET, JAVA, Python, and Ruby on Rails Technologies.
-:art: Expertise in Angular, React JS, Ext JS, and various other front-end frameworks.
-:cloud: Extensive hands-on experience in IAAS systems such as Azure, AWS, Digital Ocean, and Engine Yard.
-:card_file_box: Extensive hands-on experience in SQL databases – MSSQL, MySQL, MariaDB, PostgreSQL, SQLite.
-:bar_chart: Exposure to Redshift, DynamoDB, and Athena.
-:whale: Exposure to Docker, Jenkins, and ELK.
-:credit_card: Expertise in integration of Authorize.net, PayPal, Simple Pay, Braintree, and Stripe.
-:clipboard: Experienced in Logging Systems using Log4j and Elmah.
-:chart_with_upwards_trend: Expertise in D3 Charts and Fusion Charts.
-:video_camera: Extensive hands-on experience in Cisco WebEx integration.
-:email: Experienced in Survey Monkey, Mail Chimp, SendGrid, Facebook, Twitter, and many other API integrations.
-:eyes: Expertise in AWS Quick Sight and Kibana.
-:rocket: Expertise in ElasticSearch, EC2, S3, RDS, Lambda, and SQS.
-:globe_with_meridians: Exposure to Drupal, DotNetNuke, WordPress, and Joomla.
-:line_chart: Exposure to various domains like Automobile, Marketing, Healthcare Services, Public Relations, Telecom, Accounting, Procurement, and Data Analytics.
+- :art: Expertise in Angular, React JS, Ext JS, and various other front-end frameworks.
+- :cloud: Extensive hands-on experience in IAAS systems such as Azure, AWS, Digital Ocean, and Engine Yard.
+- :card_file_box: Extensive hands-on experience in SQL databases – MSSQL, MySQL, MariaDB, PostgreSQL, SQLite.
+- :bar_chart: Exposure to Redshift, DynamoDB, and Athena.
+- :whale: Exposure to Docker, Jenkins, and ELK.
+- :credit_card: Expertise in integration of Authorize.net, PayPal, Simple Pay, Braintree, and Stripe.
+- :clipboard: Experienced in Logging Systems using Log4j and Elmah.
+- :chart_with_upwards_trend: Expertise in D3 Charts and Fusion Charts.
+- :video_camera: Extensive hands-on experience in Cisco WebEx integration.
+- :email: Experienced in Survey Monkey, Mail Chimp, SendGrid, Facebook, Twitter, and many other API integrations.
+- :eyes: Expertise in AWS Quick Sight and Kibana.
+- :rocket: Expertise in ElasticSearch, EC2, S3, RDS, Lambda, and SQS.
+- :globe_with_meridians: Exposure to Drupal, DotNetNuke, WordPress, and Joomla.
+- :line_chart: Exposure to various domains like Automobile, Marketing, Healthcare Services, Public Relations, Telecom, Accounting, Procurement, and Data Analytics.
                                                                                                                                                                                                                                         
 <!--
 **bsuriyakuts/bsuriyakuts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
