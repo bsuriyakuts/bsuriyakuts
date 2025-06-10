@@ -7,8 +7,8 @@ Software Architect
 <suriyakani.b@capestart.com>
 
 ## Summary 
-:briefcase: Overall 15+ years of experience in designing and developing applications.
-:computer: Proficient in .NET, JAVA, Python, and Ruby on Rails Technologies.
+- :briefcase: Overall 15+ years of experience in designing and developing applications.
+- :computer: Proficient in .NET, JAVA, Python, and Ruby on Rails Technologies.
 :art: Expertise in Angular, React JS, Ext JS, and various other front-end frameworks.
 :cloud: Extensive hands-on experience in IAAS systems such as Azure, AWS, Digital Ocean, and Engine Yard.
 :card_file_box: Extensive hands-on experience in SQL databases – MSSQL, MySQL, MariaDB, PostgreSQL, SQLite.
