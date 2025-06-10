@@ -22,7 +22,7 @@ Software Architect
 - :eyes: Expertise in AWS Quick Sight and Kibana.
 - :rocket: Expertise in ElasticSearch, EC2, S3, RDS, Lambda, and SQS.
 - :globe_with_meridians: Exposure to Drupal, DotNetNuke, WordPress, and Joomla.
-- :line_chart: Exposure to various domains like Automobile, Marketing, Healthcare Services, Public Relations, Telecom, Accounting, Procurement, and Data Analytics.
+- :chart: Exposure to various domains like Automobile, Marketing, Healthcare Services, Public Relations, Telecom, Accounting, Procurement, and Data Analytics.
                                                                                                                                                                                                                                         
 <!--
 **bsuriyakuts/bsuriyakuts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
