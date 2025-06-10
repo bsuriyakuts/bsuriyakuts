@@ -38,34 +38,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-## **Suriyakani Bhagavathy**
-
-Software Architect
-
-<bsuriyak.uts@gmail.com>
-
-Summary
-
-- Overall 15+ Years of experience in designing and developing applications.
-- Proficient in .NET, JAVA, Python, Ruby and Rails Technologies
-- Expertise in Angular, React JS, Ext JS and various other front-end frameworks.
-- Extensive hands-on experience in IAAS system such as Azure, AWS, Digital Ocean and Engine Yard
-- Extensive hands-on experience in SQL databases– MSSQL, MySQL, MARIADB, PostgreSQL, SQLite,
-- Exposure to Redshift, DynamoDB, Athena
-- Exposure Docker, Jenkins and ELK
-- Expertise in integration of Authorize.net, PayPal, Simple pay, Braintree, Stripe
-- Experienced Logging System using Log4j, Elmah
-- Expertise in D3 Charts and Fusion Charts
-- Extensive hands-on experience in Cisco WebEx integration
-- Experienced in Survey Monkey, Mail Chimp, SendGrid, Facebook, Twitter and many other API integrations
-- Expertise in AWS Quick Sight and Kibana
-- Expertise in ElasticSearch, EC2, S3, RDS, LAMBDA and SQS
-- Exposure to Drupal, DotNetNuke, WordPress and Joomla
-- Exposure to various domains like Automobile, Marketing, Healthcare Services, Public Relations, Telecom, Accounting, Procurement and Data Analytics domains
-
-Skills & Expertise
+### Skills & Expertise
 
 | Operating Systems | : Windows, Linux and Mac. |
 | --- | --- |
@@ -86,18 +59,6 @@ Skills & Expertise
 | Message Broker | : Kafka |
 | Tools | : Eclipse, WebStorm, Maven, SVN, Git, Bitbucket Spring Tool, Visual Studio, Sublime, Atom and Ruby Mine, PyCharm |
 
-**Project Name: TPJBS - JOB Portal**
-
-**Project Description :** This is a web based application which has specialties based on the Physician job portal. A nightly scheduler used to send matched physician and jobs alerts to users. We have used Authorize.net for the payment process.
-
-**Technologies Used**: Asp.ne, MVC4.0, SQL server 2008, NEST Elastic search, Windows cloud services, Send grid, Social networking integration, mail chimp, css and js minification, Angular JS, Ckeditor, Google Indexing, Google Analytics, d3 charts.
-
-**Roles and Responsibilities :**
-
-- Full Stack Developer
-- Analysis,Development, Deployment, Bug Fixing and Testing.
-- Involved in client communication
-- Participated in discussions and supported the team in answering their queries.
 
 Professional Experience
 
@@ -114,6 +75,19 @@ June 2008 - July 2013 (5 years)
 January 2005 - May 2008 (2 year 6 months)
 
 Projects
+
+## :file_folder: Project: TPJBS - Job Portal
+
+**:pencil: Description:** This web-based application specializes in physician job postings. It features a nightly scheduler that sends matched physician and job alerts to users. Authorize.net is integrated for payment processing.
+
+**:computer: Technologies Used:** ASP.NET, MVC 4.0, SQL Server 2008, NEST Elastic Search, Windows Cloud Services, SendGrid, Social Networking Integration, MailChimp, CSS and JS Minification, AngularJS, CKEditor, Google Indexing, Google Analytics, D3 Charts.
+
+**:briefcase: Roles & Responsibilities:**
+
+*   :desktop_computer: Full Stack Developer
+*   :mag: Analysis, Development, Deployment, Bug Fixing, and Testing
+*   :speech_balloon: Involved in client communication
+*   :people: Participated in discussions and supported the team in answering their queries.
 
 **Project Name: North South Foundation**
 
