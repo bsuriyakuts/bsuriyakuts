@@ -7,7 +7,7 @@ Software Architect
 <bsuriyak.uts@gmail.com>
 
 ## Summary 
-- :briefcase: Overall 15+ years of experience in designing and developing applications.
+- :briefcase: Overall 20+ years of experience in designing and developing applications.
 - :computer: Proficient in .NET, JAVA, Python, and Ruby on Rails Technologies.
 - :art: Expertise in Angular, React JS, Ext JS, and various other front-end frameworks.
 - :cloud: Extensive hands-on experience in IAAS systems such as Azure, AWS, Digital Ocean, and Engine Yard.
