@@ -64,7 +64,7 @@ Professional Experience
 
 **Software Architect at CapeStart**
 
-August 2013 –Present (7 years)
+August 2013 –Present (12 years)
 
 **Senior Software Engineer at Compvue**
 
