@@ -76,7 +76,7 @@ January 2005 - May 2008 (2 year 6 months)
 
 Projects
 
-## :file_folder: Project: TPJBS - Job Portal
+## :file_folder: Project: Physician Job Portal
 
 **:pencil: Description:** This web-based application specializes in physician job postings. It features a nightly scheduler that sends matched physician and job alerts to users. Authorize.net is integrated for payment processing.
 
@@ -89,9 +89,9 @@ Projects
 *   :speech_balloon: Involved in client communication
 *   :people: Participated in discussions and supported the team in answering their queries.
 
-**Project Name: North South Foundation**
+**Project Name: Scholarships**
 
-**Project Description:** Its a web based application where the educational contests are organized by NSF team .The application is designed to encourage academic excellence among Indian American children.
+**Project Description:** Its a web based application where the educational contests are organized by the team .The application is designed to encourage academic excellence among Indian American children.
 
 **Technologies Used:** C#, ASP.NET, MVC 4.0, Angular JS, Ajax, Jquery, Javascript, SQL server 2008
 
@@ -104,9 +104,9 @@ Projects
 - Involved in the Analysis phase.
 - Technical support and guidelines to the team
 
-**Project Name: Spectrawave**
+**Project Name: Image Processing**
 
-**Project Description**: The SpectraWAVE System (SWS) provides images of the coronary arteries in patients who are candidates for transluminal interventional procedures. Here our team’s scope is to build the front end interface to display the images of the arteries and give proper procedures.
+**Project Description**: The System (SWS) provides images of the coronary arteries in patients who are candidates for transluminal interventional procedures. Here our team’s scope is to build the front end interface to display the images of the arteries and give proper procedures.
 
 **Technologies Used**: C#, WPF, SQL Server
 
@@ -127,9 +127,9 @@ Projects
 - Full stack developer
 - Implemented the algorithms and API to fetch social media posts
 
-**Project Name: ProNotate**
+**Project Name: Annotation Tool**
 
-**Project Description:** ProNotate is a web-based and collaborative data labelling platform for enterprises to meet industry’s requirement in training expert machine learning applications. ProNotate supports on-premise data or hosted data, and also allows dynamic labelling in the UI to assist analysts to train expert machine learning applications. Our team developed the image classification and segmentation , text, and video annotation, which allows users to build effective Machine Learning datasets.
+**Project Description:** Annotation Tool is a web-based and collaborative data labelling platform for enterprises to meet industry’s requirement in training expert machine learning applications. It supports on-premise data or hosted data, and also allows dynamic labelling in the UI to assist analysts to train expert machine learning applications. Our team developed the image classification and segmentation , text, and video annotation, which allows users to build effective Machine Learning datasets.
 
 **Technologies Used:** React JS, Java, Drop Wizard, MySQL, JSON
 
@@ -142,7 +142,7 @@ Projects
 
 **Project Name: Machine Learning based image classification to detect skin diseases:**
 
-**Project Description**: LuminDX is an AI-based health care services company that helps users and physicians make smarter choices in addressing skin diseases from a smartphone photo. Our team implemented an unsupervised image classification model for them that enabled the deep learning algorithm to auto-classify their images and improve the accuracy of its prediction capabilities.
+**Project Description**: It is an AI-based health care services company that helps users and physicians make smarter choices in addressing skin diseases from a smartphone photo. Our team implemented an unsupervised image classification model for them that enabled the deep learning algorithm to auto-classify their images and improve the accuracy of its prediction capabilities.
 
 **Technologies Used:** Shell Scripts, Python3.7, KNN algorithm
 
@@ -234,9 +234,9 @@ Projects
 - Full Stack Developer
 - Development, Deployment, Bug Fixing and Testing.
 
-**Project Name: Connected2Fiber**
+**Project Name: Network Provider System**
 
-**Project Description:** The C2F platform allows fibre operators unprecedented asset visibility, market awareness and participation under one roof. Discover, track, manage, distribute, and convert your fibre networks. Learn about destinations, get triggers, benchmark, and track metrics.
+**Project Description:** The platform allows fibre operators unprecedented asset visibility, market awareness and participation under one roof. Discover, track, manage, distribute, and convert your fibre networks. Learn about destinations, get triggers, benchmark, and track metrics.
 
 **Technologies Used:** Java 8, Angular JS, jQuery, Rest API, Angular Material, Map box API, elastic search
 
@@ -245,9 +245,9 @@ Projects
 - Full Stack Developer
 - Development, Deployment, Bug Fixing and Testing.
 
-**Project Name: SpottedMedia:**
+**Project Name: MediaCoverage:**
 
-**Project Description**: Spotted application is domestic data cube which will show the insights about celebrities and their brands
+**Project Description**: The application is domestic data cube which will show the insights about celebrities and their brands
 
 **Technologies Used**: Java 8, Angular1, jQuery, Rest API, Angular2, FB, Twitter API, elastic search, Instagram
 
@@ -260,7 +260,7 @@ Projects
 
 **Project Name : Boat Service Portal**
 
-**Project Description:** Hingham Shipyard Marinas provides spring and winter services, the services can order and scheduled payments.
+**Project Description:** The application provides spring and winter services, the services can order and scheduled payments.
 
 **Technologies Used:** Java, jQuery, Rest API, Angular2, Authorize.net API
 
@@ -284,7 +284,7 @@ Projects
 
 Education
 
-Master of Computer Science (MCA) – Manonmaniam Sundaranar University – January 2008
+Master of Computer Science (MCA) – Manonmaniam Sundaranar University – January 2007
 
 Interests
 
