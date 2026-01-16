@@ -15,7 +15,7 @@ Software Architect with over 20 years of experience designing and developing sca
 - **Frameworks:** .NET Framework, Entity Framework, MVC, WCF, WPF, MVVM, Silverlight, Spring, Spring Boot, TensorFlow, Sklearn
 - **Databases:** MS SQL Server, MySQL, MariaDB, PostgreSQL, SQLite, Redshift, Cassandra, MongoDB, DynamoDB, Athena
 - **Cloud:** Azure (IaaS, SDK, Storage, Worker/Web Role), AWS (EC2, S3, RDS, Lambda, SQS, EMR, QuickSight), Digital Ocean, Engine Yard
-- **DevOps/Tools:** Docker, Jenkins, Monit, SVN, Git, Bitbucket, Visual Studio, Maven, Eclipse, PyCharm, RubyMine, WebStorm, Sublime, Atom
+- **DevOps/Tools:** Docker, Jenkins, Monit, SVN, Git, Bitbucket, Visual Studio, Maven, Eclipse, PyCharm, RubyMine, WebStorm, Sublime, Atom, **GitHub Copilot, Cursor**
 - **Search & Analytics:** ElasticSearch, Kibana, D3 Charts, Fusion Charts
 - **Others:** Log4j, Elmah, ELK Stack, ITextSharp, Quartz, Thread Pool, SendGrid, MailChimp, SurveyMonkey, Facebook API, Twitter API, QuickBooks API
 - **Payment Gateways:** Authorize.net, PayPal, Stripe, SimplePay, Braintree
