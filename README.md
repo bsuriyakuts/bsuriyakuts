@@ -1,7 +1,6 @@
 # Suriyakani Bhagavathy
 
-**Email:** sunfruit83@gmail.com  
-**Alternate Email:** bsuriyak.uts@gmail.com  
+**Email:** bsuriyak.uts@gmail.com  
 **LinkedIn:** [linkedin.com/in/bsuriyak](https://www.linkedin.com/in/bsuriyak/)  
 
 ## Summary
