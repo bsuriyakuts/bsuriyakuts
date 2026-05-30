@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 ```yaml
-name: Suriyakani Bhagavathy
+name: Suriyakani Bhagavathi
 role: Software Architect
 experience: 20+ years
 location: India 🇮🇳
